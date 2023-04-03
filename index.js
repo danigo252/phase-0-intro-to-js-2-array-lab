@@ -55,4 +55,5 @@ function removeFirstCat()
   catsCopy.push(...cats);
   catsCopy.shift();
   return catsCopy;
+
 }
